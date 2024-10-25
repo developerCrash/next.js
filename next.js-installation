@@ -1,0 +1,13 @@
+Installation steps
+==================
+Download node.js and visual studio code 
+
+## to check version of node installed 
+node -v 
+
+## T create a new project 
+npx create-next-app@latest
+>>> Say yes to all 
+
+## Go to project folder 
+npm run dev 
